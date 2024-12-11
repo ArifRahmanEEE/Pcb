@@ -1,2 +1,3 @@
 # Pcb
-PCB Design of Boost Converter on kicad
+PCB Design and schematic of Boost Converter on kicad 
+
